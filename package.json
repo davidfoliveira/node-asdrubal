@@ -1,6 +1,6 @@
 {
   "name": "asdrubal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A data collection module which keeps the last N datapoints and returns the distribution percentages of each value. Supports datapoint expiration",
   "main": "data-collector.js",
   "directories": {
