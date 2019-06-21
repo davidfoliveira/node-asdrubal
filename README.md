@@ -1,10 +1,10 @@
-# data-collector
+# asdrubal
 
 A data collection module which keeps the last N datapoints and returns the distribution percentages of each value. It also supports data point expiration.
 
 ## How to use it ?
 
-	const DataCollector = require('data-collector');
+	const DataCollector = require('asdrubal');
 	const collector = new DataCollector({...opts});
 
 	// Add values to it
